@@ -1,1 +1,0 @@
-<contenu App.jsx exact du canvas inséré ici>

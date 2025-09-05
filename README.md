@@ -1,1 +1,0 @@
-# KPI Prototype\n\n## Installation\n```bash\nnpm install\n```\n\n## Développement\n```bash\nnpm run dev\n```\n\n## Build\n```bash\nnpm run build\n```\n\n## Déploiement\nDéployez sur Vercel ou Netlify en connectant ce repo.\n
